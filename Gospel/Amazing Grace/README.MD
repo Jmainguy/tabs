@@ -1,8 +1,8 @@
 # Amazing Grace
 ## Guitar 1 (Rhythm)
 ```/bin/bash
-DG      B5     A5   G    Em  D
-Amazing Grace, how sweet the sound,
+D G      B5     A5  G     Em  D
+A mazing Grace, how sweet the sound,
      G       B5     A5   D
 That saved a wretch like me.
 D          G     D   Em     D
