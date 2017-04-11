@@ -12,7 +12,7 @@ Was blind, but now I  see.
 ```
 
 ## Guitar 2 (Lead)
-This is the order of notes, but not the speed to play them at, spread it out so that it starts on Amazing Grace, and ends on but now I see, this
+This is the order of notes, but not the speed to play them at, spread it out so that it starts on "Amazing Grace", and ends on "but now I see".
 
 ```/bin/bash
 e|------------------------------------|
