@@ -1,5 +1,6 @@
 # Nothing but the Blood
 
+```/bin/bash
 G             Em
 What can wash away my sin?
 G              C        D  G
@@ -32,3 +33,4 @@ This is all my hope and peace,
 Nothing but the blood of Jesus.
 This is all my righteousness,
 Nothing but the blood of Jesus.
+```
